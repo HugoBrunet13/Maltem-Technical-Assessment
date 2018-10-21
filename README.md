@@ -1,7 +1,9 @@
 # Maltem-Technical-Assessment: Sticky Note Application
 
-Author: Hugo BRUNET 
+Author: Hugo BRUNET
+
 Date: 21/10/2018
+
 Description: Single page Sticky note app built from scratch using only vanilla JS, HTML and CSS without any help from external libraries or external resources.
 
 How to Install and run the project?
