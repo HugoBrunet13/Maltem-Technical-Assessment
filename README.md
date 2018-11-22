@@ -4,7 +4,7 @@ Author: Hugo BRUNET
 
 Date: 21/10/2018
 
-Description: Single page Sticky note app built from scratch using only vanilla JS, HTML and CSS without any help from external libraries or external resources.
+Description: Single page Sticky note app built from scratch using only vanilla JS, HTML and CSS without any help from external libraries or external resources (90min)
 
 How to Install and run the project?
 
